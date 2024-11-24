@@ -10,7 +10,7 @@ cd Home-Rental-Website/
 
 2.
 ```
-npm run build
+npm run build / npm install
 ```
 
 3.
