@@ -5,12 +5,12 @@ Run the following commands to run the project:
 
 1.
 ```
-cd Home-Rental-Website/
+cd Home-Rental-Website/client/
 ```
 
 2.
 ```
-npm run build / npm install
+npm install
 ```
 
 3.
